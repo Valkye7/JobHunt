@@ -26,7 +26,7 @@ Lumen v5.5
 
 ##### Some screenshots in desktop view 
 <div style="display:flex; flex-wrap: wrap; flex-direction: row;">
-<img src="JobHunt/blob/main/JobHuntassets/employer.png" width="400" /> 
+<img src="JobHunt/blob/main/JobHunt/assets/employer.png" width="400" /> 
 <img src="/assets/search.png" width="400"/>
 <img src="/assets/job-detail.png" width="400"/>
 <img src="/assets/register.png" width="400"/>
