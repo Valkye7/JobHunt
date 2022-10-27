@@ -8,7 +8,7 @@ Project by Vardaan Kumar
 
 #### Installation
 <ol>
-    <li>git clone https://github.com/lekhnatholi/JobPortal_Web_App.git</li>
+    <li>git clone https://github.com/Valkye7/JobHunt/tree/main/JobHunt</li>
     <li>cd Jobportal-Web-App </li>
     <li>npm install</li>
     <li>npm start</li>
